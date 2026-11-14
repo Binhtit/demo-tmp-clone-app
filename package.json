@@ -1,0 +1,22 @@
+{
+  "name": "demo-tmp-clone-app",
+  "version": "0.8.3",
+  "packageType": "app",
+  "appName": "Phim nhà Gold Bean",
+  "appPath": "index.html",
+  "keys": [
+    "MediaPlayPause",
+    "MediaPlay",
+    "MediaPause",
+    "MediaStop",
+    "MediaFastForward",
+    "MediaRewind",
+    "MediaTrackNext",
+    "MediaTrackPrevious",
+    "ColorF0Red",
+    "ColorF1Green",
+    "ColorF2Yellow",
+    "ColorF3Blue"
+  ],
+  "description": "Phim nhà Gold Bean"
+}
